@@ -1,14 +1,14 @@
 {
   "bot-account": {
     "username": "bot",
-    "password": "your_password",
+    "password": "",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "Tyrantlee.aternos.me",
+    "port": 41120,
+    "version": "1.21"
   },
 
   "position": {
